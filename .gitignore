@@ -1,0 +1,5 @@
+backups/
+logs/
+.env
+*.swp
+*.tmp
